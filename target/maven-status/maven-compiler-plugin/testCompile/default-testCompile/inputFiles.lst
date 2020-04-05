@@ -1,0 +1,6 @@
+/home/sdellsperger/Documents/priv/school/Cloud/LakesideMutual-Customer-Core/src/test/java/com/lakesidemutual/customercore/tests/ArchitectureTests.java
+/home/sdellsperger/Documents/priv/school/Cloud/LakesideMutual-Customer-Core/src/test/java/com/lakesidemutual/customercore/tests/interfaces/CustomerInformationHolderTests.java
+/home/sdellsperger/Documents/priv/school/Cloud/LakesideMutual-Customer-Core/src/test/java/com/lakesidemutual/customercore/tests/domain/customer/CustomerFactoryTests.java
+/home/sdellsperger/Documents/priv/school/Cloud/LakesideMutual-Customer-Core/src/test/java/com/lakesidemutual/customercore/tests/domain/customer/CustomerAggregateRootTests.java
+/home/sdellsperger/Documents/priv/school/Cloud/LakesideMutual-Customer-Core/src/test/java/com/lakesidemutual/customercore/tests/interfaces/dtos/customer/AddressDtoTests.java
+/home/sdellsperger/Documents/priv/school/Cloud/LakesideMutual-Customer-Core/src/test/java/com/lakesidemutual/customercore/tests/TestUtils.java

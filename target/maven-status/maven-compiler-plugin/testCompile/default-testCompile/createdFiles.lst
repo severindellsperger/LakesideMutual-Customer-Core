@@ -1,0 +1,12 @@
+com/lakesidemutual/customercore/tests/interfaces/CustomerProfileResultMatcher.class
+com/lakesidemutual/customercore/tests/domain/customer/CustomerFactoryTests$CustomerFactoryTestContextConfiguration.class
+com/lakesidemutual/customercore/tests/ArchitectureTests.class
+com/lakesidemutual/customercore/tests/interfaces/CustomerInformationHolderTests$AuthenticationControllerTestContextConfiguration$1.class
+com/lakesidemutual/customercore/tests/interfaces/JsonMatcher.class
+com/lakesidemutual/customercore/tests/interfaces/CustomerInformationHolderTests$AuthenticationControllerTestContextConfiguration.class
+com/lakesidemutual/customercore/tests/interfaces/CustomerInformationHolderTests.class
+com/lakesidemutual/customercore/tests/TestUtils.class
+com/lakesidemutual/customercore/tests/domain/customer/CustomerFactoryTests.class
+com/lakesidemutual/customercore/tests/domain/customer/CustomerAggregateRootTests.class
+com/lakesidemutual/customercore/tests/interfaces/CustomerResultMatcher.class
+com/lakesidemutual/customercore/tests/interfaces/dtos/customer/AddressDtoTests.class
